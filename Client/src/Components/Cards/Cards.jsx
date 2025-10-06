@@ -10,7 +10,7 @@ function Cards({id,  image, description, price }) {
   const  handleclick=()=>{  // function defining flow after add to cart clicked
     const product = {
         id,
-        name: description,  
+        name:description,  
         image,
         price
         };

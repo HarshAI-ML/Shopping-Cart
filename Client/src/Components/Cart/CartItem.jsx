@@ -3,10 +3,10 @@ import './CartItem.css';
 function CartItem({ item, changeQuantity, removeItem }) {
   return (
     <div className="cart-item">
-      <img src={item.image} alt={item.description} className="cart-item-image" />
+      <img src={item.image} alt={item.name} className="cart-item-image" />
 
       <div>
-        <h3>{item.description}</h3>
+        <h3>{item.name}</h3>
         <p>Price: ₹{item.price}</p>
 
         <div className="quantity-controls"> 
