@@ -1,33 +1,36 @@
 # Shopping-Cart
-Simple Shopping Cart application using React , javascript . css  and nodejs  for backend 
 
-##  Features
+Simple Shopping Cart application using React , javascript . css and nodejs for backend
+
+## Features
+
 - Product listing and details
 - Add to cart and checkout
 - Backend API for products and orders
 
-##  Tech Stack
+## Tech Stack
+
 - **Frontend:** React, CSS
 - **Backend:** Node.js, Express
 - **Data:** Hardcoded JSON (no database)
 
-##  Setup
+## Setup
+
 1. Clone this repository:
    git clone https://github.com/your-username/your-repo-name.git
 
-
 2. open new terminal ,go to Server folder , install dependencies and Start the backend server
    cd Server
-   npm i 
+   npm i
    node server.js
 
-3. open another new terminal , go to Client Folder  , install dependencies and run the frontend
+3. open another new terminal , go to Client Folder , install dependencies and run the frontend
    cd Client
    npm run dev
 
-On your localhost you would see your frontend and Backend running 
+On your localhost you would see your frontend and Backend running
 
-**Screenshots** 
+**Screenshots**
 <img width="1908" height="973" alt="image" src="https://github.com/user-attachments/assets/e9a7b8ef-9d68-44a9-b8a0-9006001fbed0" />
 <img width="1911" height="946" alt="image" src="https://github.com/user-attachments/assets/eb3cacaf-4ba2-4ea0-b6f4-e96131c3d20b" />
 
@@ -36,11 +39,3 @@ On your localhost you would see your frontend and Backend running
 **Folder Structure for reference**
 
 <img width="273" height="682" alt="image" src="https://github.com/user-attachments/assets/811b545d-eef8-4dfc-805f-e7a353ca0254" />
-
-
-
-
-
-
-   
-
