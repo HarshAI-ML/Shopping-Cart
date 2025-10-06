@@ -1,0 +1,69 @@
+.card-box {
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid black;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  background-color: white;
+  height: 400px; /* fixed height */
+  box-sizing: border-box;
+}
+
+.card-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between; 
+  align-items: center;
+  padding: 10px;
+  height: 100%; /* take full height of card-box */
+  box-sizing: border-box;
+}
+
+.card-image {
+  width: 100%;   /* always matches .card-content width */
+  display: block;
+}
+
+.card-image img {
+  width: 100%;   /* image fills the container */
+  height: 200px;
+  object-fit: cover;
+  display: block;
+}
+
+
+.card-description {
+  display: -webkit-box;
+  -webkit-line-clamp: 2; /* max 2 lines */
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin: 10px 0 5px 0;
+  font-size: 14px;
+  text-align: center;
+}
+
+.card-price {
+  font-weight: bold;
+  font-size: 14px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.addtocartbutton {
+  background-color: rgb(169, 203, 203);
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  width: 100px;
+  padding: 8px;
+  border-radius: 20px;
+  border: none;
+  cursor: pointer;
+}
+
+.addtocartbutton:hover {
+  background-color: cadetblue;
+  color: white;
+}

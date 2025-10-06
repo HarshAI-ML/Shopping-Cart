@@ -1,0 +1,12 @@
+.product-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap:30px;
+  justify-items: center;
+  align-items: start;
+  padding:8% 10% ; /* top padding so cards aren't hidden behind navbar */
+  background-color: #e6d9d9;
+  width: 100%;
+  box-sizing: border-box;
+  
+}

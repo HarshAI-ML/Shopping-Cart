@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "https://tse4.mm.bing.net/th/id/OIP.ua-mAqvT_ilW5uNf5GlcaAHaGa?pid=Api&P=0&h=180",
+    "description": "Modern 3-seater sofa with premium fabric and wooden legs.",
+    "price": 27999
+  },
+  {
+    "id": 2,
+    "image": "https://tse1.mm.bing.net/th/id/OIP.onvKkJpFHW4XmJcd3ewRZAHaHa?pid=Api&P=0&h=180",
+    "description": "Comfortable wooden chair with cushioned seat.",
+    "price": 4999
+  },
+  {
+    "id": 3,
+    "image": "https://tse4.mm.bing.net/th/id/OIP.0XIvwFVF1SlrZzwE5IzFZQHaHa?pid=Api&P=0&h=180",
+    "description": "Elegant dining table for 4 people.",
+    "price": 12999
+  },
+  {
+    "id": 4,
+    "image": "https://tse4.mm.bing.net/th/id/OIP.l-WI45uiltHOKFNkZLUCYQHaE8?pid=Api&P=0&h=180",
+    "description": "Queen size bed with sturdy frame and stylish headboard.",
+    "price": 21999
+  },
+  {
+    "id": 5,
+    "image": "https://tse2.mm.bing.net/th/id/OIP.vKYJtP1af4oASLWWEcbb2gHaFn?pid=Api&P=0&h=180",
+    "description": "Cozy single-seater sofa chair with fabric upholstery.",
+    "price": 7999
+  },
+  {
+    "id": 6,
+    "image": "https://tse2.mm.bing.net/th/id/OIP.4rX-eqY9MiErzag_fSd0CAHaEI?pid=Api&P=0&h=180",
+    "description": "Premium leather recliner sofa offering ultimate comfort and style.",
+    "price": 5999
+  },
+  {
+    "id": 7,
+    "image": "https://tse2.mm.bing.net/th/id/OIP.EsbiHeipPviIrHwVDPL2YQHaFj?pid=Api&P=0&h=180",
+    "description": "Classic tufted sofa with plush upholstery and durable hardwood frame.",
+    "price": 4999
+  },
+  {
+    "id": 8,
+    "image": "https://tse2.mm.bing.net/th/id/OIP.72rbCa44ul2fPi-bVnv9FgHaDl?pid=Api&P=0&h=180",
+    "description": "Elegant L-shaped sectional sofa with soft cushions and a minimal design",
+    "price": 5160
+  },
+  {
+    "id": 9,
+    "image": "https://tse4.mm.bing.net/th/id/OIP.RrCvxU1M95CDCXIuV8UurgHaE4?pid=Api&P=0&h=180",
+    "description": "Modern 3-seater fabric sofa with sleek wooden legs — perfect for living rooms",
+    "price": 9890
+  },
+  {
+    "id": 10,
+    "image": "https://tse4.mm.bing.net/th/id/OIP.RrCvxU1M95CDCXIuV8UurgHaE4?pid=Api&P=0&h=180",
+    "description": "Compact 2-seater velvet sofa ideal for small spaces and cozy corners.",
+    "price": 6999
+  }
+]

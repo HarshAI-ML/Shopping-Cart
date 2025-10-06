@@ -1,0 +1,14 @@
+.Navbar {
+    position: fixed;   /* keeps it stuck at the top */
+    top: 0;
+    right:0px;
+    width: 100%;       /* full page width */
+    padding: 20px 0px;
+    font-weight: bolder;
+    font-size: xx-large;
+    background-color: cadetblue;
+    display: flex;     /* so justify-content & align-items work */
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;     /* stays above other content */
+}
