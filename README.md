@@ -55,8 +55,10 @@ Run Server tests
  - Kept DATA , JSON file in backend , as normally is ..
  - As multiple components made changes to a particular variable like total_price , i have used Context API so that another component can work with the same .
  - As Application is simple and not complex , i thought to go ahead with smoke tests rather than individual unit or regression tests
+   
 
  **Video**
+ 
  https://www.loom.com/share/3280615e94f744b1a15dea7a51ebb401?sid=eeec8fb7-d91a-4e9c-8f5d-d895a2171fe4
 
  
